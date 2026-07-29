@@ -5,7 +5,7 @@ Daleeli is a UX/UI design project for a campus navigation app that helps univers
 
 > **Project type:** Independent product design case study (research → persona → design process → high-fidelity UI in Figma)
 > **Status:** Design complete. Development is the next planned phase.
-> **Figma prototype:** [View the interactive prototype](PASTE_YOUR_FIGMA_LINK_HERE)
+> **Figma prototype:** [View the interactive prototype](https://www.figma.com/proto/Uz6eSeGAt0BCjhf3zxq85q/Daleeli?node-id=50-226&t=q41M1JbAWyyDBvpm-1)
 
 ---
 
@@ -73,11 +73,11 @@ The app has two experiences:
 
 | Home | Map | Explore Places |
 |---|---|---|
-| ![Home](./screenshots/home.png) | ![Map](./screenshots/map.png) | ![Explore](./screenshots/explore.png) |
+| ![Home](./screenshots/home.png) | ![Map](./screenshots/map.png) | ![Explore](./screenshots/explore-places.png) |
 
 | Place Details | Events | Login |
 |---|---|---|
-| ![Place Details](./screenshots/place-details.png) | ![Events](./screenshots/events.png) | ![Login](./screenshots/login.png) |
+| ![Place Details](./screenshots/place-details.png) | ![Events](./screenshots/event.png) | ![Login](./screenshots/login.png) |
 
 **Admin-facing (for authorized event managers)**
 
@@ -103,7 +103,7 @@ This case study covers the research, persona, and design phases. The next phase 
 
 ## 👥 Team
 
-Designed collaboratively by two designers *(add your two names here)* as an independent product design project.
+Designed collaboratively by two designers Shrowq alharbi and Broog as an independent product design project.
 
 ## 📄 License
 

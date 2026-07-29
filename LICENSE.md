@@ -1,4 +1,4 @@
-Copyright (c) 2026 [ضعي اسمك هنا] and [ضعي اسم زميلتك هنا]
+Copyright (c) 2026 Shrowq alharbi and Broog
 
 All rights reserved.
 

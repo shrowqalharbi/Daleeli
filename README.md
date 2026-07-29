@@ -23,7 +23,7 @@ Daleeli brings places and events together in one simple, visual map-based platfo
 
 We grounded the design in a real user need before building any screens.
 
-![User Persona](./persona-fixed.png)
+![User Persona](./persona.png)
 
 **Sara** — a 20-year-old university student, always on the go between classes and hangouts.
 

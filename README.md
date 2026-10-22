@@ -103,7 +103,7 @@ This case study covers the research, persona, and design phases. The next phase 
 
 ## 👥 Team
 
-Designed collaboratively by two designers Shrowq alharbi and Broog as an independent product design project.
+Designed collaboratively by two designers Shrowq alharbi and Broog alghamdi as an independent product design project.
 
 ## 📄 License
 
